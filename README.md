@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + tailwind
 
 link to the project : https://todolist-contxt.netlify.app/
 
